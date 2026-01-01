@@ -1,24 +1,22 @@
 
 QR-Based AR Indoor Navigation System
 (Third Year Mini Project)
+
 📌 Project Overview
-
 The QR-Based AR Indoor Navigation System is an Augmented Reality application that helps users navigate indoor environments by displaying real-time AR directions over the camera view.
-
 Users scan a QR code placed at their current location, select a destination, and follow AR-based arrows to reach the target.
 The system works without GPS, making it suitable for indoor areas such as colleges, hospitals, malls, and offices.
 
 🎯 Objectives
+1. To provide accurate indoor navigation without GPS
 
-To provide accurate indoor navigation without GPS
+2. To use QR codes for identifying user starting positions
 
-To use QR codes for identifying user starting positions
+3. To implement AR-based visual guidance
 
-To implement AR-based visual guidance
+3. To calculate the shortest path using efficient algorithms
 
-To calculate the shortest path using efficient algorithms
-
-To build a user-friendly and intuitive interface
+4. To build a user-friendly and intuitive interface
 
 🚀 Key Features
 
@@ -63,17 +61,17 @@ User Navigation
 
 ⚙️ Working Principle
 
-QR codes are placed at important indoor locations.
+1. QR codes are placed at important indoor locations.
 
-The user scans a QR code using the mobile app.
+2. The user scans a QR code using the mobile app.
 
-The system identifies the user’s current position.
+3. The system identifies the user’s current position.
 
-SLAM tracks the user’s movement in real time.
+4. SLAM tracks the user’s movement in real time.
 
-The A* algorithm calculates the shortest path.
+5. The A* algorithm calculates the shortest path.
 
-AR arrows and animations guide the user to the destination.
+6. AR arrows and animations guide the user to the destination.
 
 🧪 Applications
 
